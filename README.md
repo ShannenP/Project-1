@@ -131,7 +131,7 @@ The following screenshot displays the result of running `docker ps` after succes
 
   
 
-! [Docker] (Images/DOCKER ID.JPG)
+![Docker](Images/docker.JPG)
 
  
 
