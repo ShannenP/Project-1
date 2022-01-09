@@ -178,6 +178,6 @@ SSH into the control node and follow the steps below:
 - Update hosts file to specify which machine to install the ELK server.
 - Navigate to http://[your.VM.IP]:5601/app/kibana to check that the ELK server is running.
 
-- Clone the repo on the control machine: git clone https://github.com/svetkrasin/ELK_Stack.git 
+- Clone the repo on the control machine: git clone https://github.com/ShannenP/Project-1.git
 - Update hosts file
 - run ansible-playbook install-elk.yml in order to deploy ELK server.
