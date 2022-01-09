@@ -10,7 +10,7 @@ The files in this repository were used to configure the network depicted below.
 
   
 
-![Diagram](Images/docker.JPG)
+![Diagram](Images/diagram.JPG)
 
   
 
