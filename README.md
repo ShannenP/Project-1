@@ -10,7 +10,7 @@ The files in this repository were used to configure the network depicted below.
 
   
 
-! [Diagram] (Images/DOCKER ID.JPG)
+![Diagram](Images/DOCKER ID.JPG)
 
   
 
@@ -70,15 +70,10 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
   
 
 | Name | Function | IP Address | Operating System |
-
 |----------|----------|------------|------------------|
-
 | Jump Box | Gateway | 10.0.0.4 | Linux |
-
 | Web 1  | Web app host  | 10.0.0.5 |Linux |
-
 |Web 2  | Web app host |10.0.0.6 | Linux  |
-
 | Web 3 | Redundancy web app host |10.0.0.10 |Linux |
 |Elk Server | Elk Stack |10.2.0.4| Linux 
   
@@ -106,11 +101,8 @@ A summary of the access policies in place can be found in the table below.
   
 
 | Name | Publicly Accessible | Allowed IP Addresses |
-
 |----------|---------------------|----------------------|
-
 | Jump Box | Yes/No |System Administrator Public IP |
-
 |Web 1  |Yes | Load Balancer IP |
 | Web 2 | Yes |Load Balancer IP | 
 | Web 3 | Yes| Load Balancer IP | 
